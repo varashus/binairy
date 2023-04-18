@@ -1,0 +1,13 @@
+C:\Users\Ny19RigóD\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.exe
+C:\Users\Ny19RigóD\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.deps.json
+C:\Users\Ny19RigóD\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.runtimeconfig.json
+C:\Users\Ny19RigóD\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.runtimeconfig.dev.json
+C:\Users\Ny19RigóD\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.dll
+C:\Users\Ny19RigóD\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.pdb
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.csproj.AssemblyReference.cache
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.AssemblyInfoInputs.cache
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.AssemblyInfo.cs
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.csproj.CoreCompileInputs.cache
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.dll
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.pdb
+C:\Users\Ny19RigóD\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.genruntimeconfig.cache
